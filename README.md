@@ -15,6 +15,7 @@
 | Jumper Wires | 14 | 
 
 ## How to build
+![Wiring Diagram](9c525a7fe31342ba9c1a1d000b736178308e153f664b43f082a6897ba6af125f.png)
 1. Gather components
 2. Wire the components
 3. Upload the code
